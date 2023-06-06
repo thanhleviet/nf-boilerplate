@@ -15,7 +15,7 @@ Some configurations were adapted from `nf-core` project
 ├── config
 │   ├── base.conf
 │   ├── .gitkeep
-│   ├── modedules.conf
+│   ├── modules.conf
 │   ├── params.conf
 │   └── plugins.conf
 ├── docs
@@ -49,7 +49,7 @@ Some configurations were adapted from `nf-core` project
 - **CHANGELOG.md**: Track changes and updates to the project.
 - **config**: Folder for project configuration files.
   - **base.conf**: Base configuration file.
-  - **modedules.conf**: Modules configuration file.
+  - **modules.conf**: Modules configuration file.
   - **params.conf**: Parameters configuration file.
   - **plugins.conf**: Plugins configuration file.
 - **docs**: Folder for project documentation.
